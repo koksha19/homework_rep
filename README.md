@@ -5,7 +5,7 @@ ___
 
 ___
 
-![Dev school top](img.png)
+![Dev school top](file:///C:/Users/Lev/Downloads/devschool.png)
 
 ___
 [My instagram](https://www.instagram.com/lev.bereza/?next=%2F)
